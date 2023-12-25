@@ -31,8 +31,4 @@ This project is an Individual Detection and Matching Tool designed for identifyi
 - Local Binary Pattern Histograms (LBPH)
 - Visual Studio Code
 
-## Setup
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/individual-detection-tool.git
