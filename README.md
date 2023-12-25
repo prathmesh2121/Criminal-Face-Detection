@@ -31,3 +31,15 @@ This project is an Individual Detection and Matching Tool designed for identifyi
 - Local Binary Pattern Histograms (LBPH)
 - TKinter
 - Visual Studio Code
+
+
+# Output
+![1](https://github.com/prathmesh2121/Criminal-Face-Detection/assets/100065581/18d7146c-af81-4031-beff-29e1e6a55d26)
+
+![2](https://github.com/prathmesh2121/Criminal-Face-Detection/assets/100065581/c9c41e6e-f4be-42d0-bd56-9fb61b96b741)
+
+![3](https://github.com/prathmesh2121/Criminal-Face-Detection/assets/100065581/df17b931-cbca-4192-a5be-1d432d845c22)
+
+![5](https://github.com/prathmesh2121/Criminal-Face-Detection/assets/100065581/4705af3b-0ec4-4f73-9a25-3138eb42c1cb)
+
+![6](https://github.com/prathmesh2121/Criminal-Face-Detection/assets/100065581/0df2eb36-edcb-47ef-a946-b06cc23c88da)
