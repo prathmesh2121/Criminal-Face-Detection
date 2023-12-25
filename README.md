@@ -7,22 +7,31 @@ This project is an Individual Detection and Matching Tool designed for identifyi
 ## Features
 
 - **Admin Login:**
-  - The system has an administrative login to manage and register criminal faces.
+  - The system has an administrative login with applied validations.
+  ![1](https://github.com/prathmesh2121/Criminal-Face-Detection/assets/100065581/18d7146c-af81-4031-beff-29e1e6a55d26)
+
 
 - **Criminal Face Registration:**
-  - Admin can register a criminal face by capturing 500 images quickly through the webcam.
+  - Admin can register a criminal with all details.
+![2](https://github.com/prathmesh2121/Criminal-Face-Detection/assets/100065581/c9c41e6e-f4be-42d0-bd56-9fb61b96b741)
 
-- **Training:**
-  - The system trains on the registered criminal faces to learn the distinctive features.
+- **Image Capture for Model Training:**
+  - The system captures 500 images to train the model.
+![3](https://github.com/prathmesh2121/Criminal-Face-Detection/assets/100065581/df17b931-cbca-4192-a5be-1d432d845c22)
 
 - **Group Photo Generation:**
-  - Admin can generate a group photo containing the detected criminal faces.
+  - Admin can generate a group photo.
 
-- **Real-time Detection:**
-  - The system can detect faces, eyes, and smiles in real-time with the registered criminal data.
+- **Criminal Detection in Group Photo:**
+  - The system detects the presence of any available criminal in the group photo.
 
-- **Location and Additional Information:**
-  - Provides location and additional information about the detected individuals.
+- **Location Coordinates Generation:**
+  - Latitude and longitude are generated from the group photo.
+    ![5](https://github.com/prathmesh2121/Criminal-Face-Detection/assets/100065581/4705af3b-0ec4-4f73-9a25-3138eb42c1cb)
+
+- **Google Maps Integration:**
+  - A Google Maps window automatically opens to show the last location of the detected criminal.
+![6](https://github.com/prathmesh2121/Criminal-Face-Detection/assets/100065581/0df2eb36-edcb-47ef-a946-b06cc23c88da)
 
 ## Technologies Used
 
@@ -33,13 +42,7 @@ This project is an Individual Detection and Matching Tool designed for identifyi
 - Visual Studio Code
 
 
-# Output
-![1](https://github.com/prathmesh2121/Criminal-Face-Detection/assets/100065581/18d7146c-af81-4031-beff-29e1e6a55d26)
 
-![2](https://github.com/prathmesh2121/Criminal-Face-Detection/assets/100065581/c9c41e6e-f4be-42d0-bd56-9fb61b96b741)
 
-![3](https://github.com/prathmesh2121/Criminal-Face-Detection/assets/100065581/df17b931-cbca-4192-a5be-1d432d845c22)
 
-![5](https://github.com/prathmesh2121/Criminal-Face-Detection/assets/100065581/4705af3b-0ec4-4f73-9a25-3138eb42c1cb)
 
-![6](https://github.com/prathmesh2121/Criminal-Face-Detection/assets/100065581/0df2eb36-edcb-47ef-a946-b06cc23c88da)
